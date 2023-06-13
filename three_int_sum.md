@@ -1,3 +1,4 @@
+https://www.youtube.com/watch?v=lkW5PlJnEo4&list=PLY_qIufNHc293YnIjVeEwNDuqGo8y2Emx&index=17
 ```C
 #include <stdio.h>
 int main(){
